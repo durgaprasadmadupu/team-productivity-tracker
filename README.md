@@ -1,4 +1,3 @@
-# team-productivity-tracker
 # 🧠 Team Productivity Tracker
 
 A simple web app to help teams log tasks, track weekly progress, and monitor overall productivity in a clear, organized way.
